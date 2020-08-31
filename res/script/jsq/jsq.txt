@@ -1,11 +1,3 @@
+R:10
 P:5.png
 T:2,4
-P:7.png
-T:1,2
-P:7.png
-T:1,2
-P:5.png
-T:1,2
-P:7.png
-T:1,2
-P:5.png
